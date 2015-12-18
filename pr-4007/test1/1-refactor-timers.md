@@ -78,7 +78,7 @@ Statistical profiling result from test1-2-master.log, (26881 ticks, 1 unaccounte
     557   99.5%    v8::internal::Builtin_HandleApiCall(int, v8::internal::Object**, v8::internal::Isolate*)
 
     557  100.0%      LazyCompile: ~insert timers.js:73:16
-    
+
     548   98.4%        LazyCompile: *Socket._writeGeneric net.js:623:42
     548  100.0%          LazyCompile: *writeOrBuffer _stream_writable.js:256:23
     548  100.0%            LazyCompile: *OutgoingMessage._writeRaw _http_outgoing.js:146:47

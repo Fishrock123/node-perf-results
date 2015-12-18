@@ -55,10 +55,10 @@ Statistical profiling result from test2-1-refactor-timers.log, (12029 ticks, 1 u
   Note: percentage shows a share of a particular caller in the total
   amount of its parent calls.
   Callers occupying less than 2.0% are not shown.
- 
+
    ticks parent  name
    8696   72.3%  syscall
- 
+
     332    2.8%  node::HandleWrap::Close(v8::FunctionCallbackInfo<v8::Value> const&)
     331   99.7%    v8::internal::Builtin_HandleApiCall(int, v8::internal::Object**, v8::internal::Isolate*)
     331  100.0%      LazyCompile: ~Socket._destroy net.js:437:37

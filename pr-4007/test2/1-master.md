@@ -25,7 +25,7 @@ Statistical profiling result from test2-1-master.log, (11068 ticks, 0 unaccounte
    ticks  total  nonlib   name
 
     138    1.2%    1.3%  LazyCompile: *unrefTimeout timers.js:533:22
-    
+
      46    0.4%    0.4%  Stub: LoadICStub
      32    0.3%    0.3%  KeyedLoadIC: A keyed load IC from the snapshot
      31    0.3%    0.3%  LazyCompile: *emit events.js:118:44
