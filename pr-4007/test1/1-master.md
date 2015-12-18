@@ -1,6 +1,5 @@
 test1.js on `master`
 
-
 ```
 wrk -t12 -c400 -d30s http://45.55.209.17:4242/
 ```
