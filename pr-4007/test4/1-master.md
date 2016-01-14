@@ -1,4 +1,4 @@
-test3.js on `master @ 0b43c08`.
+test4.js on `master @ 0b43c08`.
 
 ```
 node --prof test4.js

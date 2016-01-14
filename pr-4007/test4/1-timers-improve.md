@@ -1,4 +1,6 @@
-test3.js on `master @ 0b43c08` with [`2ccde01...27d1f58`](https://github.com/Fishrock123/node/compare/2ccde01...27d1f58) and the following applied:
+test4.js on `master @ 0b43c08` with [`2ccde01...27d1f58`](https://github.com/Fishrock123/node/compare/2ccde01...27d1f58) and the following applied:
+
+(Note: This is effectively a memory leak.)
 
 ```diff
 diff --git a/lib/timers.js b/lib/timers.js
