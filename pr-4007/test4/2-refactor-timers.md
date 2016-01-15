@@ -1,4 +1,4 @@
-test4.js on `master @ 0b43c08`.
+test4.js on `master @ 0b43c08` with [`2ccde01...b293f6b`](https://github.com/Fishrock123/node/compare/2ccde01...b293f6b) applied.
 
 ```
 /usr/bin/time node --prof test4.js
